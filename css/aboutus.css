@@ -3,3 +3,6 @@
     box-shadow: 0 0 10px  rgb(105, 185, 255);
     transform: scale(1.05); 
 }
+.aboutus h1,.aboutus p,.aboutus button{
+    font-family: serif;
+}
