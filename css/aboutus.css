@@ -1,0 +1,5 @@
+.d-grid button:hover {
+    background-color: #66a3e9; 
+    box-shadow: 0 0 10px  rgb(105, 185, 255);
+    transform: scale(1.05); 
+}
