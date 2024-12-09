@@ -5,6 +5,9 @@
     margin: 0 auto;
     gap: 30px;     
 }
+.navbar-nav a{
+    font-family: serif;
+}
 
 .wedding{
     text-decoration: none;
